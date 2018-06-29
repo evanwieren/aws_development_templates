@@ -1,6 +1,3 @@
-# This will connnect to an AWS account and provide a report of resources that
-# are not in compliance. 
-
 from __future__ import print_function
 import os
 import sys
